@@ -5,7 +5,7 @@ Here are some projects I have been a part of:
 ### Trainer app (Java)
 - [repo](https://github.com/JoonasMV/Trainer)
 
-### Shopping List Website (JavaScript React FullStack Project)
+### Shopping List Website (JavaScript React)
 - [Shopping list](https://shopping-list-app.fly.dev/)
 - [repo](https://github.com/ollivarila/group3-web-project)
 <!--
