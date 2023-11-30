@@ -2,13 +2,12 @@
 
 Here are some projects I have been a part of:
 
-### Trainer app 💪 (Java) 
-- [repo](https://github.com/JoonasMV/Trainer)
-
 ### Shopping List Website 🛒 (JavaScript, React)
-- [Shopping list](https://shopping-list-app.fly.dev/)
-- [repo](https://github.com/ollivarila/group3-web-project)
+- [Website](https://shopping-list-app.fly.dev/)
+- [repository](https://github.com/ollivarila/group3-web-project)
 
+### Trainer app 💪 (Java) 
+- [repository](https://github.com/JoonasMV/Trainer)
 
 <!--
 **jennivh/jennivh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
