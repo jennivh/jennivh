@@ -9,6 +9,8 @@ Here are some projects I have been a part of:
 ### Trainer app 💪 (Java) 
 - [repository](https://github.com/JoonasMV/Trainer)
 
+Currently studying Fullstack Open (this time to get the credits)
+
 <!--
 **jennivh/jennivh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
