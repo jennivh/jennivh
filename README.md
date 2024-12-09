@@ -1,6 +1,20 @@
-## Hello there Visitor 👋
+# Hello there Visitor 👋
 
-Here are some projects I have been a part of:
+## Some tools and languages I can use:
+
+### Tools
+- [Figma](https://www.figma.com/)
+- [WAVE](https://wave.webaim.org/)
+
+### Languages
+- React
+- Javascript
+- HTML
+- CSS
+- Java
+- Python
+
+## Some projects I have been a part of:
 
 ### Shopping List Website 🛒 (JavaScript, React)
 - [Website](https://shopping-list-app.fly.dev/)
