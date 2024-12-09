@@ -1,6 +1,6 @@
 # Hello there Visitor 👋
 
-## Some tools and languages I can use:
+## Some tools and languages I have used:
 
 ### Tools
 - [Figma](https://www.figma.com/)
