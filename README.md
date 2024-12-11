@@ -3,8 +3,8 @@
 ## Some tools and languages I have used:
 
 ### Tools
-- [Figma](https://www.figma.com/)
-- [WAVE](https://wave.webaim.org/)
+- Figma
+- WAVE
 
 ### Languages
 - React
