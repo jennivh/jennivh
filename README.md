@@ -1,19 +1,18 @@
 # Hello there Visitor 👋
-- [playwright](https://github.com/jennivh/playwright-amazon)
-  
+
 ## Some tools and languages I have used:
 
-### Tools
-- Figma
-- WAVE
-
-### Languages
 - React
-- Javascript
+- JavaScript
+- TypeScript
 - HTML
 - CSS
 - Java
 - Python
+- [Playwright](https://github.com/jennivh/playwright-amazon)
+- Figma
+- WAVE
+
 
 ## Some projects I have been a part of:
 
