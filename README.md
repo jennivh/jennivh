@@ -23,7 +23,7 @@
 ### Trainer app 💪 (Java) 
 - [repository](https://github.com/JoonasMV/Trainer)
 
-Currently studying Fullstack Open (parts [0-9](https://github.com/jennivh/FullStackOpen) and [11](https://github.com/jennivh/Blogilista_11/blob/main/.github/workflows/pipeline.yml) completed)
+I have also completed Fullstack Open parts [0-9](https://github.com/jennivh/FullStackOpen) and [11](https://github.com/jennivh/Blogilista_11/blob/main/.github/workflows/pipeline.yml)
 
 <!--
 **jennivh/jennivh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
